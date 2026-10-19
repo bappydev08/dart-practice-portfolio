@@ -1,0 +1,6 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    # print() is intentional in these command-line learning examples.
+    avoid_print: false
